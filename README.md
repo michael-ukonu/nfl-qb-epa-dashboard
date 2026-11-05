@@ -2,6 +2,8 @@
 
 An interactive R Shiny dashboard for exploring NFL quarterback passing efficiency using **Expected Points Added (EPA)** from the 2022 and 2023 seasons.
 
+🚀 **[Open the live dashboard](https://michael-ukonu1.shinyapps.io/nfl-qb-epa-dashboard/)** (if it's been idle, it takes 20–30 seconds to wake up)
+
 ![Overview tab](screenshots/overview.png)
 
 ## Features
